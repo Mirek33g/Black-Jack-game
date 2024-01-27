@@ -1,0 +1,1 @@
+It is a Black-Jack game. program have 2 numbers and can pull a next card if user wants. User plays with the computer.
